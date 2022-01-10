@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushmishra123
-- 👀 I’m interested in Flutter and Devops stuffs
-- 🌱 I’m currently learning Advance Flutter
+- 👀 I’m interested in BAckend and Devops stuffs
+- 🌱 I’m currently learning Django
 - 📫 EMAIL me for any queries (ayushmishra7625@gmail.com)
 
 <!---
